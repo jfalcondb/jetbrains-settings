@@ -1,0 +1,10 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="showColors" value="false" />
+    <option name="categories">
+      <map>
+        <entry id="PHP" categories="Fields;Constants;Constructors;Methods" />
+      </map>
+    </option>
+  </component>
+</application>

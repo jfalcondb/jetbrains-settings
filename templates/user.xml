@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templateSet group="user">
+  <template name="linf" value="\Log::info($END$);" description="laravel log info" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="lerr" value="\Log::error($END$);" description="laravel log error" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
+

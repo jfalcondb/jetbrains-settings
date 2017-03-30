@@ -1,0 +1,57 @@
+<templateSet group="PHP">
+  <template name="thr" value="throw new $END$" description="throw new " toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="dmp" value="var_dump($END$);" description="var_dump function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="dd" value="dd($END$);" description="die dump" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="if" value="if($CONDITION$)&#10;{&#10;    $END$&#10;}" description="if statement" toReformat="true" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="else" value="else&#10;{&#10;    $END$&#10;}" description="else statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="eif" value="else if($CONDITION$)&#10;{&#10;    $END$&#10;}" description="else if statement" toReformat="true" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="eco" value="echo &quot;$END$&quot;;" description="'echo' statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XSL_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="dde" value="echo '&lt;pre&gt;';&#10;var_dump($e-&gt;getMessage().$e-&gt;getTraceAsString());&#10;die();" description="dump exception" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="regset" value="//////////////////////////////////&#10;//region Setters&#10;//////////////////////////////////" description="setters region" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="regget" value="//////////////////////////////////&#10;//region Getters&#10;//////////////////////////////////" description="getters region" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="try" value="try {&#10;    $END$&#10;}&#10;catch(\Exception $ex)&#10;{&#10;}" description="try catch" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
