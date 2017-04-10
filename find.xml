@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '[newsic] - ...\src'" />
     <option name="defaultScopeName" value="Directory '[newsic] - ...\src'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '[newsic] - ...\src'" />
     <recentFileMasks>
       <mask>*.properties</mask>
