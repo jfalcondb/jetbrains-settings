@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[newsic] - ...\src'" />
-    <option name="defaultScopeName" value="Directory '[newsic] - ...\src'" />
-    <option name="SEARCH_SCOPE" value="Directory '[newsic] - ...\src'" />
+    <option name="customScope" value="Project 'pareto'" />
+    <option name="defaultScopeName" value="Project 'pareto'" />
+    <option name="SEARCH_SCOPE" value="Project 'pareto'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
