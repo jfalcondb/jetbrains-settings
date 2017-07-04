@@ -3,6 +3,7 @@
     <option name="customScope" value="Project 'pareto'" />
     <option name="defaultScopeName" value="Project 'pareto'" />
     <option name="SEARCH_SCOPE" value="Project 'pareto'" />
+    <option name="FILE_MASK" value="*.php,*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
