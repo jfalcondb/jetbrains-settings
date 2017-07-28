@@ -11,6 +11,7 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Console.TableResult.SelectRow" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="shift ctrl alt subtract" />
   </action>
@@ -24,6 +25,9 @@
   <action id="EditorUnSelectWord" />
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="Macro.nbsp">
+    <keyboard-shortcut first-keystroke="shift space" />
   </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl o" />

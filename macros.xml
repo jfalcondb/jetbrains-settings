@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="nbsp">
+      <action id="EditorPaste" />
+    </macro>
+  </component>
+</application>
