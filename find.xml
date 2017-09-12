@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'pareto'" />
     <option name="defaultScopeName" value="Project 'pareto'" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'pareto'" />
     <recentFileMasks>
       <mask>*.properties</mask>
