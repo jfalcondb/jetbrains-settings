@@ -3,26 +3,10 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://git.digbang.com" />
-          <option name="userName" value="jfalcon" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/arcticfalcon/laravel-analytics.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="http://github.com" />
-          <option name="userName" value="jfalcondb" />
+          <option name="userName" value="jfalcon@digbang.com" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\laravel-analytics" />
-  </component>
-  <component name="HgGlobalSettings">
-    <option name="myHgExecutable" value="hg.exe" />
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="D:\pareto" />
-    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>

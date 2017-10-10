@@ -1,13 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="*.blade.php" type="HTML" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="asd" type="PLAIN_TEXT" />
-      <mapping pattern="05951d63413e2d0fcf633fab5a9ac9504577e2e8" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping ext="variables" type="Less" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="YAML" />
     </extensionMap>
   </component>
 </application>
