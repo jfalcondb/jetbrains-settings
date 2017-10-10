@@ -1,7 +1,4 @@
 <templateSet group="PHP">
-  <template name="thr" value="throw new $END$" description="throw new " toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
   <template name="dmp" value="var_dump($END$);" description="var_dump function" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
