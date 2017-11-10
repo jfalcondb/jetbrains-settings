@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="variables" type="Less" />
       <mapping pattern=".php_cs" type="PHP" />
+      <mapping ext="consumer" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="properties" type="YAML" />
     </extensionMap>
