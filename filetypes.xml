@@ -4,6 +4,7 @@
       <mapping ext="variables" type="Less" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="productconsumer" type="PLAIN_TEXT" />
+      <mapping ext="migrations" type="PLAIN_TEXT" />
       <mapping ext="historyconsumer" type="PLAIN_TEXT" />
       <mapping ext="producer" type="PLAIN_TEXT" />
       <mapping ext="consumer" type="PLAIN_TEXT" />
