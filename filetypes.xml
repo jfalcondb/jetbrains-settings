@@ -4,13 +4,14 @@
       <mapping ext="variables" type="Less" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="productconsumer" type="PLAIN_TEXT" />
       <mapping ext="migrations" type="PLAIN_TEXT" />
       <mapping ext="historyconsumer" type="PLAIN_TEXT" />
       <mapping ext="producer" type="PLAIN_TEXT" />
       <mapping ext="consumer" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="eventconsumer" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="properties" type="YAML" />
     </extensionMap>
   </component>
