@@ -7,10 +7,11 @@
       <mapping ext="productconsumer" type="PLAIN_TEXT" />
       <mapping ext="migrations" type="PLAIN_TEXT" />
       <mapping ext="historyconsumer" type="PLAIN_TEXT" />
+      <mapping ext="buildenv" type="PLAIN_TEXT" />
       <mapping ext="producer" type="PLAIN_TEXT" />
       <mapping ext="consumer" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="eventconsumer" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="properties" type="YAML" />
     </extensionMap>
   </component>
