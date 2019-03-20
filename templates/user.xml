@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <templateSet group="user">
   <template name="linf" value="\Log::info($END$);" description="laravel log info" toReformat="true" toShortenFQNames="true">
     <context>
@@ -10,5 +9,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="imp" value="import $END$ from '$library$'" description="Import statement - import {b} from 'a'" toReformat="false" toShortenFQNames="true">
+    <variable name="library" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
-
