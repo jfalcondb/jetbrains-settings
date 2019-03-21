@@ -8,6 +8,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="*.js,*.jsx" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,7 +18,6 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.js</mask>
       <mask>cs</mask>
       <mask>*</mask>
       <mask>*.c</mask>
@@ -26,6 +26,13 @@
       <mask>*.</mask>
       <mask>*.cs</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
+      <mask>*.js,</mask>
+      <mask>*.js,*</mask>
+      <mask>*.js,*.</mask>
+      <mask>*.js,*.j</mask>
+      <mask>*.js,*.js</mask>
+      <mask>*.js,*.jsx</mask>
     </recentFileMasks>
   </component>
 </application>
